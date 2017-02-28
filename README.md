@@ -33,7 +33,7 @@ We will meet for *up to* 1 hour after the EGGL lab meeting ends (Mondays @ 11:30
 
 ### Past Lessons
 
-- [ ] 01 - 2/27/17 - **Github Basics and Markdown**
+- [x] 01 - 2/27/17 - **Github Basics and Markdown**
 + Organization 
 + Github "Issues" and repository basics
 + Going bonkers with Markdown
