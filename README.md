@@ -16,23 +16,24 @@ To join hackey hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.
 ## Schedule
 We will meet for *up to* 1 hour after the EGGL lab meeting ends (Mondays @ 11:30). We will plan to meet, on average, every 1.5 lab meetings. E.g.: On, On, Off.
 
-01 - 2/27/17 - **Github Basics and Markdown**
-+ Organization 
-+ Github "Issues" and repository basics
-
-02 - 3/6/17 - **Python and R basics**
+- [ ] 02 - 3/6/17 - **Python and R basics**
++ Github: Cloning and Pushing
 + Writing and running scripts
 + Interactive sessions
  
-03 - 3/20/17 - **Installing and using packages**
+- [ ] 03 - 3/20/17 - **Installing and using packages**
 + Using virtual environments (conda)
 + Installing packages using pip
 + Installing packages using CRAN
 
-04 - TBD - **Makefiles and Pipelining**
+- [ ] 04 - TBD - **Makefiles and Pipelining**
 + How to string your project together
 + Creating a pipeline
 + Using Makefiles to make your life easy
 
 ### Past Lessons
-Nothing here yet!
+
+- [x] 01 - 2/27/17 - **Github Basics and Markdown**
++ Organization 
++ Github "Issues" and repository basics
++ Going bonkers with Markdown
