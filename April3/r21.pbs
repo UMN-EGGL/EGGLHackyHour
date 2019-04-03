@@ -1,0 +1,8 @@
+#!/bin/bash -l
+
+#PBS -l nodes=1:ppn=1,walltime=5:00:00
+
+cd ~/ldhat/Random_21
+./random21.sh
+
+
