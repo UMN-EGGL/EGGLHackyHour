@@ -20,6 +20,7 @@ We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
 + Github: Forking and pushing
 + Writing and running shell scripts (?)
 + Individual issues
+https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 
 - [ ] 03 - 4/17/19 - **Command line python**
 + Github: Branching and remote tracking (?)
