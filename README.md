@@ -24,7 +24,7 @@ https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-ori
 https://help.github.com/en/articles/syncing-a-fork
 
 - [ ] 03 - 4/24/19 - **Command line python**
-+ Github: Branching and remote tracking
++ Github: Branching and remote tracking THIS IS COOL!
 + Argparse and the *main* scope
 + Individual issues
  
