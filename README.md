@@ -16,16 +16,16 @@ To join hackey hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.
 ## Schedule
 We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
 
-- [ ] 02 - 4/3/19 - **GitHub and shell scripting**
+- [x] 02 - 4/3/19 - **GitHub and shell scripting**
 + Github: Forking and pushing
 + Writing and running shell scripts (?)
 + Individual issues  
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser  
 https://help.github.com/en/articles/syncing-a-fork
 
-- [ ] 03 - 4/17/19 - **Command line python**
-+ Github: Branching and remote tracking (?)
-+ Argparse and the *main* scope (?)
+- [ ] 03 - 4/24/19 - **Command line python**
++ Github: Branching and remote tracking
++ Argparse and the *main* scope
 + Individual issues
  
 - [ ] 04 - 5/1/19 - **TBD**
