@@ -15,6 +15,18 @@ The mission of hackey hour is several things:
 To join hackey hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.edu/UMN-Equine-Lab) and click the "Watch" button. 
 ## Schedule
 We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
+ 
+- [ ] 04 - 5/1/19 - **TBD**
++ Github something?
++ Parallelizing tasks?
++ Individual issues
+
+### Past Lessons
+
+- [x] 01 - 2/27/17 - **Github Basics and Markdown**
++ Organization 
++ Github "Issues" and repository basics
++ Going bonkers with Markdown
 
 - [x] 02 - 4/3/19 - **GitHub and shell scripting**
 + Github: Forking and pushing
@@ -23,16 +35,7 @@ We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser  
 https://help.github.com/en/articles/syncing-a-fork
 
-- [ ] 03 - 4/24/19 - **Command line python**
+- [x] 03 - 4/24/19 - **Command line python**
 + Github: Branching and remote tracking THIS IS COOL!
 + Argparse and the *main* scope
 + Individual issues
- 
-- [ ] 04 - 5/1/19 - **TBD**
-
-### Past Lessons
-
-- [x] 01 - 2/27/17 - **Github Basics and Markdown**
-+ Organization 
-+ Github "Issues" and repository basics
-+ Going bonkers with Markdown
