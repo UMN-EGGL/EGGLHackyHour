@@ -16,9 +16,8 @@ To join hackey hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.
 ## Schedule
 We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
  
-- [ ] 04 - 5/1/19 - **TBD**
+- [ ] 04 - 5/1/19 - **Parallelizing tasks?**
 + Github something?
-+ Parallelizing tasks?
 + Individual issues
 
 ### Past Lessons
