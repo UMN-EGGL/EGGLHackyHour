@@ -1,18 +1,18 @@
-# HackeyHour
-A central repository for the EGGL lab HackeyHours
+# HackyHour
+A central repository for the EGGL lab HackyHours
 
-The repository will serve as **the home base** for the EGGL lab hackey hours. 
+The repository will serve as **the home base** for the EGGL lab hacky hours. 
 
-## The mission of HackeyHour: 
+## The mission of HackyHour: 
 
-The mission of hackey hour is several things:
+The mission of hacky hour is several things:
 
 + To keep track of group lessons and build references in a single place
 + To efficiently and collaborativly learn new computing skills
 + To reach a consensus for computer practices in our lab
 
 ### How to join and participate
-To join hackey hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.edu/UMN-Equine-Lab) and click the "Watch" button. 
+To join hacky hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.edu/UMN-Equine-Lab) and click the "Watch" button. 
 ## Schedule
 We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
  
