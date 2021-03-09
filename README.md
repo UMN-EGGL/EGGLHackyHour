@@ -14,11 +14,11 @@ The mission of hacky hour is several things:
 ### How to join and participate
 To join hacky hour, log into [github.umn.edu/UMN-Equine-Lab](http://github.umn.edu/UMN-Equine-Lab) and click the "Watch" button. 
 ## Schedule
-We will meet for *up to* 1 hour biweekly on Wednesdays @ 12:00.
- 
-- [ ] 04 - 5/1/19 - **Parallelizing tasks?**
-+ Github something?
-+ Individual issues
+We will meet for *up to* 1 hour biweekly on Thursdays @ 15:00.
+
+- [ ] 00 - 3/11/21
++ What is hacky hour?
++ Blue sky brainstorming!
 
 ### Past Lessons
 
@@ -37,4 +37,8 @@ https://help.github.com/en/articles/syncing-a-fork
 - [x] 03 - 4/24/19 - **Command line python**
 + Github: Branching and remote tracking THIS IS COOL!
 + Argparse and the *main* scope
++ Individual issues
+
+- [ ] 04 - 5/1/19 - **Parallelizing tasks?**
++ Github something?
 + Individual issues
